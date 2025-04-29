@@ -1,0 +1,45 @@
+[
+    {
+        "Timestamp": "2025-04-28T12:43:15.414268",
+        "Event_Type": "Student Added!",
+        "Details": {
+            "Name": "Josh",
+            "House": "Gryffindor",
+            "Year": "1"
+        }
+    },
+    {
+        "Timestamp": "2025-04-28T13:05:58.033977",
+        "Event_Type": "Student Added!",
+        "Details": {
+            "Name": "Josh",
+            "House": "Gryffindor",
+            "Year": "7"
+        }
+    },
+    {
+        "Timestamp": "2025-04-28T13:27:48.123031",
+        "Event_Type": "Student Added!",
+        "Details": {
+            "Name": "Josh",
+            "House": "Gryffindor",
+            "Year": "1"
+        }
+    },
+    {
+        "Timestamp": "2025-04-28T16:09:50.545156",
+        "Event_Type": "Student Deleted",
+        "Details": {
+            "Name": "Josh"
+        }
+    },
+    {
+        "Timestamp": "2025-04-28T16:10:08.363401",
+        "Event_Type": "Student Added!",
+        "Details": {
+            "Name": "Joshua",
+            "House": "Gryffindor",
+            "Year": "1"
+        }
+    }
+]
